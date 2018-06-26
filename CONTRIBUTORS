@@ -1,0 +1,28 @@
+Centro de Ensino Superior de Juiz de Fora - CES/JF
+Bacharelado em Engenharia de Software
+
+Discentes do Grupo:
+1) Bianca Morais Souza 
+2) Gabriel Marques
+3) Rogerio Tostes
+
+Docente responsável pelo projeto:
+1) Prof. Barbara de Melo Quintela
+
+Descrição de Contribuição do Projeto:
+
+Cada integrante do grupo se reuniu a fim de tornar o projeto mais aprimorado possivel.
+O discente 1 ficou responsável pela implementação em JavaScript do diretório JavaScripMiniMax, bem como a implementação de seu CSS e
+na apresentação dos filhos gerados por cada turno deterministico do jogo, demonstrados como possiveis e futuros nós das arvores, que 
+demonimam o empate do jogo, a derrota ou a vitória.
+Os discentes 2 e 3 foram responsáveis pela impelemntação em C#, bem como sua interface gráfica para possibilitar a jogabilidade.
+A implementação em C# tambem possibilita ser visualizado no Google Chrome, atraves da visualizacao de perfomance.
+Todos os discentes foram responsaveis pela busca de uma interface artificial que possibilitasse ao jogo não possuir forma de ser vencido.
+Consistindo em um jogo que, apesar de infantil, apresenta meios de implementar duas estruturas de dados complexas, como a arvore de decisão
+Minimax e as pilhas, para a criacao dos filhos (nós) do modelo JS.
+As métricas para o benchMark só são possiveis de serem analisadas no código em C#, visto que o Visual Studio proporciona esta função
+sem a necessidade de implementação direta no código.
+
+
+
+
