@@ -1,0 +1,26 @@
+C:\Users\EThan\Documents\Visual Studio 2008\Projects\tic_tac_toe\tic_tac_toe\bin\Debug\tic_tac_toe.exe
+C:\Users\EThan\Documents\Visual Studio 2008\Projects\tic_tac_toe\tic_tac_toe\bin\Debug\tic_tac_toe.pdb
+C:\Users\EThan\Documents\Visual Studio 2008\Projects\tic_tac_toe\tic_tac_toe\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\EThan\Documents\Visual Studio 2008\Projects\tic_tac_toe\tic_tac_toe\obj\Debug\tic_tac_toe.Properties.Resources.resources
+C:\Users\EThan\Documents\Visual Studio 2008\Projects\tic_tac_toe\tic_tac_toe\obj\Debug\tic_tac_toe.csproj.GenerateResource.Cache
+C:\Users\EThan\Documents\Visual Studio 2008\Projects\tic_tac_toe\tic_tac_toe\obj\Debug\tic_tac_toe.exe
+C:\Users\EThan\Documents\Visual Studio 2008\Projects\tic_tac_toe\tic_tac_toe\obj\Debug\tic_tac_toe.pdb
+C:\Users\EThan\Documents\Visual Studio 2008\Projects\tic_tac_toe\tic_tac_toe\obj\Debug\tic_tac_toe.TicTacToeGUI.resources
+C:\Users\Gerim\Desktop\EDOP\Nova pasta (2)\minimax-master\tic_tac_toe\bin\Debug\tic_tac_toe.exe
+C:\Users\Gerim\Desktop\EDOP\Nova pasta (2)\minimax-master\tic_tac_toe\bin\Debug\tic_tac_toe.pdb
+C:\Users\Gerim\Desktop\EDOP\Nova pasta (2)\minimax-master\tic_tac_toe\obj\Debug\tic_tac_toe.csprojResolveAssemblyReference.cache
+C:\Users\Gerim\Desktop\EDOP\Nova pasta (2)\minimax-master\tic_tac_toe\obj\Debug\tic_tac_toe.TicTacToeGUI.resources
+C:\Users\Gerim\Desktop\EDOP\Nova pasta (2)\minimax-master\tic_tac_toe\obj\Debug\tic_tac_toe.Properties.Resources.resources
+C:\Users\Gerim\Desktop\EDOP\Nova pasta (2)\minimax-master\tic_tac_toe\obj\Debug\tic_tac_toe.csproj.GenerateResource.Cache
+C:\Users\Gerim\Desktop\EDOP\Nova pasta (2)\minimax-master\tic_tac_toe\obj\Debug\tic_tac_toe.csproj.CoreCompileInputs.cache
+C:\Users\Gerim\Desktop\EDOP\Nova pasta (2)\minimax-master\tic_tac_toe\obj\Debug\tic_tac_toe.exe
+C:\Users\Gerim\Desktop\EDOP\Nova pasta (2)\minimax-master\tic_tac_toe\obj\Debug\tic_tac_toe.pdb
+C:\Users\Gerim\Desktop\TrabalhoBarbaraEDOP\TrabalhoEDOP\C#MiniMax\tic_tac_toe\bin\Debug\tic_tac_toe.exe
+C:\Users\Gerim\Desktop\TrabalhoBarbaraEDOP\TrabalhoEDOP\C#MiniMax\tic_tac_toe\bin\Debug\tic_tac_toe.pdb
+C:\Users\Gerim\Desktop\TrabalhoBarbaraEDOP\TrabalhoEDOP\C#MiniMax\tic_tac_toe\obj\Debug\tic_tac_toe.csprojResolveAssemblyReference.cache
+C:\Users\Gerim\Desktop\TrabalhoBarbaraEDOP\TrabalhoEDOP\C#MiniMax\tic_tac_toe\obj\Debug\tic_tac_toe.TicTacToeGUI.resources
+C:\Users\Gerim\Desktop\TrabalhoBarbaraEDOP\TrabalhoEDOP\C#MiniMax\tic_tac_toe\obj\Debug\tic_tac_toe.Properties.Resources.resources
+C:\Users\Gerim\Desktop\TrabalhoBarbaraEDOP\TrabalhoEDOP\C#MiniMax\tic_tac_toe\obj\Debug\tic_tac_toe.csproj.GenerateResource.Cache
+C:\Users\Gerim\Desktop\TrabalhoBarbaraEDOP\TrabalhoEDOP\C#MiniMax\tic_tac_toe\obj\Debug\tic_tac_toe.csproj.CoreCompileInputs.cache
+C:\Users\Gerim\Desktop\TrabalhoBarbaraEDOP\TrabalhoEDOP\C#MiniMax\tic_tac_toe\obj\Debug\tic_tac_toe.exe
+C:\Users\Gerim\Desktop\TrabalhoBarbaraEDOP\TrabalhoEDOP\C#MiniMax\tic_tac_toe\obj\Debug\tic_tac_toe.pdb
