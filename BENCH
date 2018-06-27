@@ -1,2 +1,6 @@
+As metricas de código utilizado na comparaçao foi o tamanho da linha de codigo
+
 As linhas do código do JavaScript deram 276 linhas 
 As linhas do código do C# deram 263 linhas 
+
+Usando a IDE VisualStudio no código em C#  podemos verificar a complexidade Ciclomática que é de 84
